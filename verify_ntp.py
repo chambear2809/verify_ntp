@@ -2,7 +2,6 @@
 Python 2.7.x only
 show_ntp
 
-Ninous Bebla nbebla@cisco.com
 
 Copyright (C) 2015 Cisco Systems Inc.
 
